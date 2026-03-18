@@ -2,7 +2,16 @@
 
 💼 Atualmente trabalho com suporte técnico e infraestrutura  
 📚 Estudando desenvolvimento e automação de processos  
-🚀 Buscando evoluir para a área de tecnologia com foco em desenvolvimento  
+🚀 Em transição para a área de desenvolvimento, com foco em automação e sistemas  
+
+---
+
+## 🎓 Formação e Experiência
+- Análise e Desenvolvimento de Sistemas – CEUB  
+- Estagiário em TI – Ativos BB  
+  - Suporte técnico e infraestrutura  
+  - Automação de processos internos  
+  - Desenvolvimento de soluções para intranet  
 
 ---
 
@@ -23,7 +32,7 @@
 🔹 Repositório Virtual de Documentos - RVD (Microsoft SharePoint)  
 - Controle e gestão de documentos  
 - Automação de fluxos de aprovação  
-- Integração com e-mail e Microsoft Teams  
+- Integração com E-mail e Microsoft Teams  
 
 🔹 Scripts de automação  
 - Manutenção e melhorias em sistemas internos  
@@ -33,13 +42,13 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonata334&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloque aqui)  
-- Email: (opcional)  
+- LinkedIn: https://www.linkedin.com/in/jhonataf-araujo  
+- Email: jhonata.araujo@semprecub.com  
 
 ---
 
