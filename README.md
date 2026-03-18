@@ -11,7 +11,7 @@
 - Estagiário em TI – Ativos BB  
   - Suporte técnico e infraestrutura  
   - Automação de processos internos  
-  - Desenvolvimento de soluções para intranet  
+  - Desenvolvimento de soluções
 
 ---
 
@@ -43,6 +43,8 @@
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonata334&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata334&layout=compact&theme=dark)
 
 ---
 
